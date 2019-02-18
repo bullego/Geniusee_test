@@ -1,0 +1,6 @@
+//__________import bootstrap components
+//выбираем только те компоненты, которые используются в проекте, чтоб не подключать весь файл bootstrap.scss
+//важен порядок подключения, см. как в bootstrap.scss
+
+//@import "../../node_modules/bootstrap/scss/bootstrap-reboot.scss";
+@import "../../node_modules/bootstrap/scss/bootstrap-grid.scss";

@@ -1,0 +1,52 @@
+@mixin g-black {
+	font-family: 'Gotham';
+	font-size: 18px;
+	line-height: 1;
+	font-style: normal;
+	font-weight: 900;
+}
+@mixin g-bold {
+	font-family: 'Gotham';
+	font-size: 30px;
+	line-height: 1;
+	font-style: normal;
+	font-weight: 700;
+}
+@mixin g-book {
+	font-family: 'Gotham';
+	font-size: 18px;
+	line-height: 1;
+	font-style: normal;
+	font-weight: 400;
+}
+@mixin g-medium {
+	font-family: 'Gotham';
+	font-size: 18px;
+	line-height: 1;
+	font-style: normal;
+	font-weight: 500;
+}
+@mixin g-ultra {
+	font-family: 'Gotham';
+	font-size: 72px;
+	line-height: 1;
+	font-style: normal;
+	font-weight: 800;
+}
+@mixin m-bold {
+	font-family: 'Montserrat';
+	font-size: 36px;
+	line-height: 1;
+	font-style: normal;
+	font-weight: 700;
+}
+@mixin m-extrabold {
+	font-family: 'Montserrat';
+	font-size: 36px;
+	line-height: 1;
+	font-style: normal;
+	font-weight: 800;
+}
+@mixin brdr {
+	border: 1px solid red;
+}
